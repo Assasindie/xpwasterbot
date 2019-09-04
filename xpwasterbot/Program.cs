@@ -47,12 +47,7 @@ namespace xpwasterbot
 
         public static void AddUsers()
         {
-            //UserList.Add("Assasindie", 132448673710866432);
             UserList.Add("JZ-Cx", 195863984107159552);
-            //UserList.Add("ironmanbtwbt", 195863984107159552);
-            //UserList.Add("Lron PlsHop", 118668607193481217);
-            //UserList.Add("Iron PlsHop", 132448673710866432);
-            //UserList.Add("ayXises", 118668607193481217);
         }
 
         public Program()
